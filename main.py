@@ -3,4 +3,4 @@ import cantera as ct
 import simu2D as sim
 
 # run test problems
-# initialize the problem
+# 1 initialize the problem
