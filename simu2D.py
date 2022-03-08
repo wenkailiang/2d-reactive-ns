@@ -6,4 +6,5 @@ def flux(state):
 
   # initial parameters
   
-class simu2D():
+class simu2D:
+  def __init__():
