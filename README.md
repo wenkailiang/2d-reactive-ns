@@ -1,3 +1,4 @@
 # 2d-reactive-ns
 compressible flow solver
-reaction rate calculation
+
+1 reaction rate calculation
