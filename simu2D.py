@@ -8,3 +8,6 @@ def flux(state):
   
 class simu2D:
   def __init__(self):
+    
+  # defined functions
+  def initial(self):
