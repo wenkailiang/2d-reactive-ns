@@ -7,3 +7,4 @@ import simu2D as sim
 
 # 1 initialize the problem
 mysimu=simu2D()
+mysimu.initial()
