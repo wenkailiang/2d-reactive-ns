@@ -10,4 +10,7 @@ class simu2D:
   def __init__(self):
     
   # defined functions
+  # initialize the simulation
   def initial(self):
+    
+  def advance(self, time_end)
