@@ -12,5 +12,7 @@ class simu2D:
   # defined functions
   # initialize the simulation
   def initial(self):
+    nx=10
+    ny=10
     
   def advance(self, time_end)
