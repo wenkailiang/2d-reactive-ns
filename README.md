@@ -2,7 +2,7 @@
 compressible flow solver
 
 1 reaction rate calculation
-# based on cantera
+based on cantera
 
 2 convection flux calculation
 
