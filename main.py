@@ -7,4 +7,7 @@ import simu2D as sim
 
 # 1 initialize the problem
 mysimu=simu2D()
-mysimu.initial()
+
+# set up the initial condition
+geometry=...
+mysimu.initial(geometry)
