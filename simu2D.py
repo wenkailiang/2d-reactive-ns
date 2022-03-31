@@ -14,5 +14,7 @@ class simu2D:
   def initial(self):
     nx=10
     ny=10
+    dx=Lx/nx
+    dy=Ly/ny
     
   def advance(self, time_end)
