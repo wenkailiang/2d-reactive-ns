@@ -8,13 +8,15 @@ def flux(state):
   
 class simu2D:
   def __init__(self):
+    self.nx=10
+    self.ny=10
+    self.Lx=1.0
+    self.Ly=1.0
     
   # defined functions
   # initialize the simulation
   def initial(self):
-    nx=10
-    ny=10
-    dx=Lx/nx
-    dy=Ly/ny
+    dx=self.Lx/self.nx
+    dy=self.Ly/self.ny
     
   def advance(self, time_end)
