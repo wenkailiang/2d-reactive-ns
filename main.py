@@ -6,8 +6,9 @@ import simu2D as sim
 # the 2D shock
 
 # 1 initialize the problem
-mysimu=simu2D()
+input=[0, 0]
+mysimu=simu2D(input)
 
 # set up the initial condition
-geometry=...
+geometry=[1, 1]
 mysimu.initial(geometry)
