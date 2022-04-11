@@ -19,4 +19,7 @@ class simu2D:
     dx=self.Lx/self.nx
     dy=self.Ly/self.ny
     
-  def advance(self, time_end)
+  def advance(self, time_end):
+  
+  def save(self, fname):
+    np.savetxt(fname, self.data)
