@@ -5,6 +5,8 @@ compressible flow solver
 
 based on Cantera
 
+species:
+
 2 convection flux calculation
 
 reconstruction
