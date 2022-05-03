@@ -1,7 +1,9 @@
 import sys
 import numpy as np
 import cantera as ct
-  
+
+# define the inputs
+
 class simu2D:
   def __init__(self):
     self.nx=10
