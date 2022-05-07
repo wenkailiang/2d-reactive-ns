@@ -5,7 +5,7 @@ compressible flow solver
 
 based on Cantera
 
-species:
+species: index
 
 2 convection flux calculation
 
