@@ -1,6 +1,9 @@
 # 2D reactive NS
 compressible flow solver
 
+- first use the 1-step kinetics
+
+
 1 reaction rate calculation
 
 based on Cantera
