@@ -6,7 +6,7 @@ import simu2D as sim
 # the 2D shock
 
 # 1 initialize the problem
-input=[0, 0, 0]
+input=[0, 0, 0, 0]
 mysimu=simu2D(input)
 
 # set up the initial condition
