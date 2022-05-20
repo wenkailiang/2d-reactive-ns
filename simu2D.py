@@ -21,3 +21,7 @@ class simu2D:
   
   def save(self, fname):
     np.savetxt(fname, self.data)
+    
+  def central1(self):
+    
+  def upwind1(self):
