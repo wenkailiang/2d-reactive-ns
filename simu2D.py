@@ -23,5 +23,6 @@ class simu2D:
     np.savetxt(fname, self.data)
     
   def central1(self):
+    cells = np.linspace(0, 1, 0.0001)
     
   def upwind1(self):
