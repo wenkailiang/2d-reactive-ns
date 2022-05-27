@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import cantera as ct
 import simu2D as sim
 
-# run test problem
-# the 2D shock
+# test problem
+# 2D shock
 
 # 1 initialize the problem
 input=[0, 0, 0, 0]
