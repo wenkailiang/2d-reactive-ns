@@ -13,3 +13,6 @@ mysimu=simu2D(input)
 # set up the initial condition
 geometry=[1, 1]
 mysimu.initial(geometry)
+
+grid = np.arange(0, 10, 0.01)
+print(grid)
