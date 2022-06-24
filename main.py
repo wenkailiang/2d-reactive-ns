@@ -1,5 +1,5 @@
 import numpy as np
-import scipy
+import scipy as sp
 import matplotlib.pyplot as plt
 import cantera as ct
 import simu2D as sim
