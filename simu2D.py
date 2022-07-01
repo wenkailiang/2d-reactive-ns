@@ -5,6 +5,7 @@ import cantera as ct
 # define the inputs
 
 class simu2D:
+  # initial
   def __init__(self):
     self.nx=10
     self.ny=10
@@ -12,11 +13,6 @@ class simu2D:
     self.Ly=1.0
     
   # defined functions
-  # initialize the simulation
-  def initial(self):
-    dx=self.Lx/self.nx
-    dy=self.Ly/self.ny
-    
   def advance(self, time_end):
   
   def save(self, fname):
