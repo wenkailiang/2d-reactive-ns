@@ -1,5 +1,5 @@
 # 2D reactive NS
-compressible reactive flow solver
+Compressible reactive flow solver
 
 Test
 
