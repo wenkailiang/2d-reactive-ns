@@ -3,6 +3,7 @@ import numpy as np
 import cantera as ct
 
 class simu2D:
+  
   # initial
   def __init__(self):
     self.nx=10
