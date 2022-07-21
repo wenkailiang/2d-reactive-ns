@@ -6,6 +6,7 @@ import simu2D as sim
 
 
 # test problem
+# 1D shock
 # 2D shock
 
 # 1 initialize the problem
