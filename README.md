@@ -1,4 +1,4 @@
-# 2D reactive NS
+# 2D reactive NS solver
 Compressible reactive flow solver
 
 Testing......
