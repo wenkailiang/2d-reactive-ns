@@ -2,6 +2,7 @@ import sys
 import numpy as np
 import cantera as ct
 
+# define the class
 class simu2D:
   
   # initial
