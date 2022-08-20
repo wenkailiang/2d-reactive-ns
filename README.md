@@ -10,10 +10,13 @@ Testing...
 based on Cantera
 
 species: index
+reactions: index
+
 
 2 convection flux calculation
 
 reconstruction
+
 
 3 transport calculation
 
