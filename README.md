@@ -1,7 +1,10 @@
 # 2D reactive NS solver
 Compressible reactive flow solver
 
-Testing...
+Testing Now
+
+
+
 
 1 reaction rate calculation
 - 1-step kinetics
