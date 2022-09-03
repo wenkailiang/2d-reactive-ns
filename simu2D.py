@@ -4,7 +4,6 @@ import cantera as ct
 
 # define the class
 class simu2D:
-  
   # initial
   def __init__(self):
     self.nx=10
