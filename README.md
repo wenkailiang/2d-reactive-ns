@@ -18,6 +18,6 @@ reactions: index
 reconstruction
 
 
-3 transport calculation
+3 diffusion flux calculation
 
 based on Cantera
