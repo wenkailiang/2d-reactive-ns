@@ -1,6 +1,7 @@
 import sys
 import numpy as np
 import cantera as ct
+import matplotlib
 
 # define the class
 class simu2D:
