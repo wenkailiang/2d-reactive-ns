@@ -2,7 +2,7 @@
 Compressible reactive flow solver
 
 
-Testing Version
+Test Version
 
 1 reaction rate calculation
 - 1-step kinetics
