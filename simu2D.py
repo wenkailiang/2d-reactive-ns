@@ -5,7 +5,8 @@ import matplotlib
 
 # define the class
 class simu2D:
-  # initial
+  
+  # initialize the simulation
   def __init__(self):
     self.nx=10
     self.ny=10
