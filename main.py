@@ -19,5 +19,7 @@ mysimu=simu2D(input)
 geometry=[1, 1]
 mysimu.initial(geometry)
 
-grid = np.arange(0, 10, 0.01)
-print(grid)
+#1D case
+N = 100
+x = np.linspace(0, 10, N)
+u = np.ones(N)
