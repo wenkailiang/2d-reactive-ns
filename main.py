@@ -23,3 +23,5 @@ mysimu.initial(geometry)
 N = 100
 x = np.linspace(0, 10, N)
 u = np.ones(N)
+
+for i in range(N):
