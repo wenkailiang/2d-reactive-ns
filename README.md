@@ -12,11 +12,9 @@ based on Cantera
 species: index i
 reactions: index j
 
-
 2 convection flux calculation
 
 reconstruction
-
 
 3 diffusion flux calculation
 
