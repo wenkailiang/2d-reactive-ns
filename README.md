@@ -8,7 +8,6 @@ Test Version
 - detailed kinetics 
 
 based on Cantera
-
 species: index i
 reactions: index j
 ==============================
