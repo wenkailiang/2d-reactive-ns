@@ -10,10 +10,8 @@ Test Version
 based on Cantera
 species: index i
 reactions: index j
-==============================
-here
-==============================
-test case?
+
+test case???
 
 2 convection flux calculation
 
