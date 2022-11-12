@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy as sp
 import cantera as ct
-# package ...
+# package ......
 import simu2D as sim
 
 
