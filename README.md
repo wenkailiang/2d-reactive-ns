@@ -3,6 +3,7 @@ Compressible reactive flow solver
 
 Testing Version 
 
+
 1 reaction rate calculation
 - 1-step kinetics
 - detailed kinetics 
@@ -13,9 +14,11 @@ reactions: index j
 
 test case???
 
+
 2 convection flux calculation
 
 reconstruction
+
 
 3 diffusion flux calculation
 
