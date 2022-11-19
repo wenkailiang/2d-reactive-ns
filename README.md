@@ -12,7 +12,7 @@ species: index i
 reactions: index j
 
 test case
-
+# case 1 linear advection
 
 2 convection flux calculation
 
