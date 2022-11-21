@@ -1,7 +1,7 @@
 # 2D reactive NS solver
 Compressible reactive flow solver
 
-Testing Version 
+Testing Version...
 
 1 reaction rate calculation
 - 1-step kinetics
@@ -12,7 +12,7 @@ species: index i
 reactions: index j
 
 test case
-- case 1 linear advection
+= case 1 linear advection
 
 2 convection flux calculation
 
