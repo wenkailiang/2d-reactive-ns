@@ -8,8 +8,8 @@ Test Version
 - detailed kinetics 
 
 based on Cantera
-species: index i
-reactions: index j
+- species: index i
+- reactions: index j
 
 test case
 - case 1 linear advection
@@ -17,7 +17,6 @@ test case
 2 convection flux calculation
 
 reconstruction
-
 
 3 diffusion flux calculation
 
