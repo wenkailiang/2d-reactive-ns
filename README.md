@@ -16,7 +16,7 @@ test case
 
 2 convection flux calculation
 
-reconstruction
+- reconstruction
 
 3 diffusion flux calculation
 
