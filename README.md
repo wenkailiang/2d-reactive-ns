@@ -1,5 +1,6 @@
-# 2D reactive NS solver
-Compressible reactive flow solver
+# 2D reactive flow solver
+
+Compressible
 
 Testing Version
 
