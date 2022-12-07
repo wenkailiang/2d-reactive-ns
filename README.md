@@ -4,6 +4,8 @@ Test Version
 
 1 reaction rate calculation
 - 1-step kinetics
+How to realize?
+
 - detailed kinetics 
 
 based on Cantera
