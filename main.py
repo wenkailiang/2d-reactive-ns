@@ -24,4 +24,5 @@ x = np.linspace(0, 10, N)
 u = np.ones(N)
 
 # initial condition
+print(x)
 for i in range(N):
