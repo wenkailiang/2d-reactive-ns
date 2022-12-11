@@ -1,7 +1,9 @@
 # 2D reactive flow solver
 
 Test Version
-Now work on the kinetics part.
+
+Progress:
+Now work on the kinetics part
 
 1 reaction rate calculation
 - 1-step kinetics
