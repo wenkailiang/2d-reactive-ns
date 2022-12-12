@@ -7,6 +7,8 @@ Now work on the kinetics part
 
 1 reaction rate calculation
 - 1-step kinetics
+
+Question:
 How to realize?
 
 - detailed kinetics 
