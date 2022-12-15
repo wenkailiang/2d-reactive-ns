@@ -3,7 +3,7 @@
 Test Version
 
 Progress:
-Now work on the kinetics part 1
+Now work on the kinetics
 
 1 reaction rate calculation
 - 1-step kinetics
