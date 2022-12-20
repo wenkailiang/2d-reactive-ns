@@ -1,6 +1,6 @@
 # 2D reactive flow solver
 
-Test Version
+Testing Version
 
 Progress:
 
