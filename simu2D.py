@@ -8,8 +8,8 @@ class simu2D:
   
   # initialize the simulation
   def __init__(self):
-    self.nx=16
-    self.ny=16
+    self.nx=10
+    self.ny=10
     self.Lx=1.0
     self.Ly=1.0
     
