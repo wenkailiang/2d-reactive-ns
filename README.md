@@ -2,9 +2,7 @@
 
 Testing Version
 
-Progress:
-
-Now work on the kinetics
+Progress: Now work on the kinetics
 
 1 reaction rate calculation
 - 1-step kinetics
@@ -12,6 +10,8 @@ Now work on the kinetics
 Question:
 How to realize?
 
+
+====================
 - detailed kinetics 
 
 based on Cantera
