@@ -5,7 +5,6 @@ import scipy as sp
 import cantera as ct
 import simu2D as sim
 
-
 # test problem
 # 1D shock
 # 2D shock
