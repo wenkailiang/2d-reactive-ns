@@ -12,8 +12,6 @@ Now work on the kinetics
 Question:
 How to realize?
 
-
-====================
 - detailed kinetics 
 
 based on Cantera
