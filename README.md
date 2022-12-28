@@ -2,8 +2,6 @@
 
 Testing Version
 
-=
-
 Progress: 
 
 Now work on the kinetics
