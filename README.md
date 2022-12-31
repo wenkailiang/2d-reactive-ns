@@ -6,6 +6,7 @@ Progress:
 
 Now work on the kinetics
 
+
 1 reaction rate calculation
 - 1-step kinetics
 
