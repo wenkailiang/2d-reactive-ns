@@ -25,3 +25,4 @@ u = np.ones(N)
 # initial condition
 print(x)
 for i in range(N):
+  print(x[i])
