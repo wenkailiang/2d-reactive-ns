@@ -4,7 +4,7 @@ Testing Version
 
 Progress: 
 
-Now work on the kinetics
+Now work on the kinetics of
 
 1 reaction rate calculation
 
