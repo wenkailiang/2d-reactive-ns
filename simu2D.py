@@ -23,3 +23,6 @@ class simu2D:
     cells = np.linspace(0, 1, 0.0001)
     
   def upwind1(self):
+  
+  def rate():
+    return r
