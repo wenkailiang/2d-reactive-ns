@@ -10,7 +10,7 @@ Now work on the kinetics of 1-step reaction rate calculation
 
 Question:
 How to realize?
-
+\\
 - detailed kinetics 
 
 based on Cantera
