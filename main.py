@@ -5,9 +5,7 @@ import scipy as sp
 import cantera as ct
 import simu2D as sim
 
-# test problem
-# 1D shock
-# 2D shock
+# test 1 cell kinetics
 
 # 1 initialize the problem
 input=[0, 0, 0, 0]
