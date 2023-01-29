@@ -4,10 +4,7 @@ Testing Version
 
 Progress: 
 
-
-Now work on the kinetics of 1-step reaction rate calculation
-
-\n
+# Now work on the kinetics of 1-step reaction rate calculation
 
 - 1-step kinetics
 
