@@ -26,3 +26,6 @@ class simu2D:
   
   def rate(a, n, Ea, R, T):
     return a*T^n*np.exp(Ea/R/T)
+  def rate1(a, n, Ea, T):
+    R = 8.31 # gas constant
+    return a*T^n*np.exp(Ea/R/T)
