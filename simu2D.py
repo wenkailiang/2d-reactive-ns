@@ -24,5 +24,5 @@ class simu2D:
     
   def upwind1(self):
   
-  def rate():
-    return r
+  def rate(a, n, Ea, R, T):
+    return a*T^n*np.exp(Ea/R/T)
