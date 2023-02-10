@@ -3,7 +3,6 @@
 Testing Version
 
 # Progress: 
-
 # Now: 
 Work on the kinetics of 1-step reaction rate calculation
 
