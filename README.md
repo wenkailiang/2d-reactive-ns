@@ -7,8 +7,8 @@
 - detailed kinetics 
 
 based on Cantera
-- species: index i
-- reactions: index j
+- species: index k
+- reactions: index l
 
 2 convection flux calculation
 
