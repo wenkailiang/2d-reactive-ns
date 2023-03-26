@@ -1,4 +1,4 @@
-# 2D reactive flow solver
+# 2-D reactive flow solver
 # Testing
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
