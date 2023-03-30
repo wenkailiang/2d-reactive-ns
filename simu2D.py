@@ -23,7 +23,9 @@ class simu2D:
     cells = np.linspace(0, 1, 0.0001)
     
   def upwind1(self):
-  
+    
+  def onestep(self):
+    
   def rate(a, n, Ea, R, T):
     return a*T^n*np.exp(Ea/R/T)
   def rate1(a, n, Ea, T):
