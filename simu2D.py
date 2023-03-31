@@ -12,6 +12,9 @@ class simu2D:
     self.ny=10
     self.Lx=1.0
     self.Ly=1.0
+    self.T = 300.0
+    self.p = 1.0e5
+    self.Y = 1.0
     
   # defined functions
   def advance(self, time_end):
