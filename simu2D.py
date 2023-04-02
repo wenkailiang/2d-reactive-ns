@@ -26,7 +26,8 @@ class simu2D:
     cells = np.linspace(0, 1, 0.0001)
     
   def upwind1(self):
-    
+  
+  # define function of one-step chemistry
   def onestep(self):
     
   def rate(a, n, Ea, R, T):
