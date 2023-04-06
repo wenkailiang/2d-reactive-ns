@@ -28,8 +28,10 @@ class simu2D:
   def upwind1(self):
   
   # define function of one-step chemistry
-  def onestep(self):
-    
+  def eqY(self):
+    return
+  def eqT(self):
+    return
   def rate(a, n, Ea, R, T):
     return a*T^n*np.exp(Ea/R/T)
   def rate1(a, n, Ea, T):
