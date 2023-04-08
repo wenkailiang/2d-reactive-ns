@@ -3,7 +3,7 @@
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
 1 reaction rate calculation
-- 1-step kinetics HERE
+- 1-step kinetics
 - detailed kinetics 
 
 based on Cantera
