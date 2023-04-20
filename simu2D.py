@@ -4,7 +4,10 @@ import cantera as ct
 import matplotlib.pyplot as plt
 
 # define the class
-class simu2D:
+class sim0D:
+  
+# define the class
+class sim2D:
   
   # initialize the simulation
   def __init__(self):
