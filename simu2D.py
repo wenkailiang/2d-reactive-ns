@@ -3,7 +3,7 @@ import numpy as np
 import cantera as ct
 import matplotlib.pyplot as plt
 
-# define the class
+# define the class as
 class sim0D:
   
 # define the class
