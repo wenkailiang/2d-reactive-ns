@@ -1,5 +1,5 @@
 # 2-D reactive flow solver
-Testing now
+Testing
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
 1 reaction rate calculation
