@@ -4,6 +4,6 @@ import pandas as pd
 import cantera as ct
 
 def Jacobi():
-  ans = [[]]
+  ans = [[0]*n]*m
   return ans
   
