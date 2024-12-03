@@ -1,5 +1,5 @@
 # 2-D reactive flow solver
-# Test
+# Testing now
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
 1 reaction rate calculation
@@ -18,4 +18,4 @@ based on Cantera
 
 3 diffusion flux calculation
 
-based on Cantera
+- based on Cantera
