@@ -2,8 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import odeint
 
+#class ode:
+    
 # need to change ode
-# here!
 def ode(y, t, b, c):
     theta, omega = y
     dydt = [omega, -b*omega - c*np.sin(theta)]
