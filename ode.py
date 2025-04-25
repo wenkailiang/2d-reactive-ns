@@ -5,9 +5,9 @@ from scipy.integrate import odeint
 #class ode:
     
 # need to change ode
-def ode(y, t, b, c):
+def ode(y, t):
     theta, omega = y
-    dydt = [omega, -b*omega - c*np.sin(theta)]
+    dydt = [omega, -omega - np.sin(theta)]
     return dydt
     
 # define
