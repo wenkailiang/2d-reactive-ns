@@ -1,5 +1,5 @@
 # 2-D reactive flow solver
-# Testing now
+# Test version
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
 1 reaction rate calculation
@@ -7,6 +7,7 @@
 - detailed kinetics
 
 ! work on this section
+! autoignition process
 
 based on Cantera
 - species: index k
