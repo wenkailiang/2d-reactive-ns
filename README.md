@@ -1,11 +1,11 @@
 # 2-D reactive flow solver
-# Testing
+# Test
 # Now need to work on the kinetics of 1-step reaction rate calculation
 
 1 reaction rate calculation
 - 1-step kinetics
 - detailed kinetics
-! here
+! How to do it
 ! work on this section
 ! autoignition process
 
