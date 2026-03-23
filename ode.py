@@ -4,7 +4,7 @@ from scipy.integrate import odeint
 
 #class ode:
     
-# need to change ode
+# previous
 def ode(y, t):
     theta, omega = y
     dydt = [omega, -omega - np.sin(theta)]
